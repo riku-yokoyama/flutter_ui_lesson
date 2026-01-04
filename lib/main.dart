@@ -55,7 +55,7 @@ class InstagramLikePage extends StatelessWidget {
    ストーリー一覧
  ====================== */
 class StoryList extends StatelessWidget {
-  const StoryList({super.kegit y});
+  const StoryList({super.key});
 
   @override
   Widget build(BuildContext context) {
